@@ -1,0 +1,19 @@
+{
+    "name": "luowen/swoole-webapp",
+    "description": "swoole webservice",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luowen",
+            "email": "bigpao.luo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "luowen\\swooleapp\\": "src/"
+        }
+    }
+
+
+}
